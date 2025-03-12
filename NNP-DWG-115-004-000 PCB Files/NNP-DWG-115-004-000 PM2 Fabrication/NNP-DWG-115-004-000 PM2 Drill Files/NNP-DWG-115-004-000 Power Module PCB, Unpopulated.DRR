@@ -1,0 +1,44 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 52-2001_04 NNP Power Module PCB, Unpopulated.PcbDoc   11/13/2018  2:59:26 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 - Top Copper to L8 - Bottom Copper
+ASCII Plated RoundHoles File : 52-2001_04 NNP Power Module PCB, Unpopulated-Plated.TXT
+ASCII Non-Plated RoundHoles File : 52-2001_04 NNP Power Module PCB, Unpopulated-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)            +0mil (0mm)/-4mil (0.1mm)         Round             5         PTH        0.00inch (0.00mm)
+T2      8mil (0.2mm)            +0mil (0mm)/-8mil (0.2mm)         Round             260       PTH        0.00inch (0.00mm)
+T3      16mil (0.4mm)                                             Round             33        PTH        0.00inch (0.00mm)
+T4      25mil (0.635mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T5      30mil (0.762mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T6      35mil (0.9mm)                                             Round             36        PTH        0.00inch (0.00mm)
+T7      46mil (1.168mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T8      60mil (1.524mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T9      158mil (4.013mm)                                          Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              356
+Layer Pair : L1 - Top Copper to L2 - GND
+ASCII Plated RoundHoles File : 52-2001_04 NNP Power Module PCB, Unpopulated-Plated.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)            +0mil (0mm)/-4mil (0.1mm)         Round             114       PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              114
+Layer Pair : L7 - GND to L8 - Bottom Copper
+ASCII Plated RoundHoles File : 52-2001_04 NNP Power Module PCB, Unpopulated-Plated.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)            +0mil (0mm)/-4mil (0.1mm)         Round             121       PTH        0.00inch (0.00mm)
+T2      8mil (0.2mm)            +0mil (0mm)/-8mil (0.2mm)         Round             6         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              127
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              597
+----------------------------------------------------------------------------------------------------------------------------------
+Backdrill Totals                                                                    0
+
+Total Processing Time (hh:mm:ss) : 00:00:02

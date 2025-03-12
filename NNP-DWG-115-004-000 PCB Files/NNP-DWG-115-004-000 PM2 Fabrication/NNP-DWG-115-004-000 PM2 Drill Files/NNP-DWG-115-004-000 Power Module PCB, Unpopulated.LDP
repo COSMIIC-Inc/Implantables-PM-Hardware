@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: Z:\DHF-DMR Documents\50-Electronic Components\52-2001 - PCB PM\52-2001_04\52-2001_04 Altium PCB File\52-2001_04 NNP Power Module PCB, Unpopulated.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=52-2001_04 nnp power module pcb, unpopulated-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=52-2001_04 nnp power module pcb, unpopulated-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl
+LayersSetName=L1 - Top Copper_L2 - GND_Blind_Vias|DrillFile=|DrillLayers=gtl,g1
+LayersSetName=L7 - GND_L8 - Bottom Copper_Blind_Vias|DrillFile=|DrillLayers=g6,gbl

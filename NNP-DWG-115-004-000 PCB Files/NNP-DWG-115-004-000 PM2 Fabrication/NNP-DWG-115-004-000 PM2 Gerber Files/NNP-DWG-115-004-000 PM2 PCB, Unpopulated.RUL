@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: Z:\DHF-DMR Documents\50-Electronic Components\52-2001 - PCB PM\52-2001_04\52-2001_04 Altium PCB File\52-2001_04 NNP Power Module PCB, Unpopulated.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=0.98
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=Polygon|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Keepout|Scope=Board|Minimum=7.87
