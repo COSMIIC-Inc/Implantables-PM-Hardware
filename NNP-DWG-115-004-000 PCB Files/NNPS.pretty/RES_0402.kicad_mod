@@ -1,0 +1,292 @@
+(footprint "RES_0402"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.23876 -1.42353 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "001a8186-982a-4e67-a76c-260f4a8d7124")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.01)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "RES_0402"
+		(at -3.1369 -0.2159 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b4fece4c-5fc0-42a2-b81b-cc3c4e323f3f")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "RES_0402"
+		(at 1.130124 1.310897 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "1b1eaf70-e2c0-48a8-944d-2abc1bbd09cf")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "edfda436-6a1c-43df-9056-a0744bff728c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "1a26fcad-838d-481a-9a1a-64ba589c8663")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "COMPONENTLINK1URL" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40b323c6-9fd5-48e2-8fbe-e4a3f8e37b54")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTNNPS_PN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "191408ce-27fb-463f-839b-b789efeb1df5")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "CLASSNAME" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af3d61dd-f9dc-49f5-9af0-939fd9288cab")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MFR" "Vishay Dale"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b81e968-03fb-4a85-aedd-670e6d4d7df1")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "NOTE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0f596a5d-0cf6-4013-bfde-b8503a901d34")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "PACKAGEDESCRIPTION" "RES_0402"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "841f4cb8-7f45-4ba3-9e56-3de1e8e68b87")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "Digi-Key"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "15f0cb60-afc3-4e28-8890-5a78e4a76172")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "541-1.00KLDKR-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "54939c5c-7633-4417-b9fd-0426c55512d4")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "AN1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5304d8d6-6645-4f00-93b9-d30f0fd47774")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" "1k 1%"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23407030-5088-498e-b56c-8bedf7fedffd")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MPN" "CRCW04021K00FKED"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "edb4a864-e8ac-4a62-b89d-2834c62f166f")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SBI" "53-0049-4"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bd51126d-ff79-495d-8b17-b6631a6eeb0c")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(fp_rect
+		(start -0.120801 -0.325933)
+		(end 0.120801 0.330493)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "f99399db-ee30-41c9-b403-88099743fddc")
+	)
+	(pad "1" smd rect
+		(at -0.5 0)
+		(size 0.5 0.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "caa28b77-8998-4888-937f-9c7ae730c846")
+	)
+	(pad "2" smd rect
+		(at 0.5 0)
+		(size 0.5 0.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "fd4f659e-fdc0-4bcc-a872-42c5ab873500")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "b5c754a6-7f92-4bcf-a847-f7b4cf6640f1")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 0.447108 -0.201035) (xy 0.447108 0.198965) (xy -0.502892 0.198965) (xy -0.502892 -0.201035)
+			)
+		)
+	)
+	(model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/res0402.step"
+		(offset
+			(xyz 0.0001 0.00012 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 0)
+		)
+	)
+)

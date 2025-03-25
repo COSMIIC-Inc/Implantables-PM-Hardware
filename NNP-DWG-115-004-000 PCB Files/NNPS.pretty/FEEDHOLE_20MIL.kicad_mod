@@ -1,0 +1,220 @@
+(footprint "FEEDHOLE_20MIL"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.271816 0.242525 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c91d10c2-61fd-4141-9c65-c83facb0658d")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.01)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "HOLE_20m"
+		(at -2.9591 -0.4191 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "adf032e6-b4da-4ed0-82df-73e38c30f02b")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "PM1B:FEEDHOLE_20MIL"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b09dbb5-9bc2-4b9a-8e0b-519a2e32b209")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9abe122b-cf85-4ceb-aeba-91b765b392be")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5e90c304-8cd3-4683-a371-cf9ccbe52517")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "CLASSNAME" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b6e1f1c8-4602-40b7-b2c8-de6526880f5f")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTLINK1URL" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "979fbc4b-dbf5-493a-96aa-c98b87884ab0")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTNNPS_PN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "901b8730-2fe2-4645-b999-ad4c86a9f966")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MFR" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa8b4d68-a043-47a8-862d-2735c2d8eaca")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MPN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0069d9c5-441e-4bd5-bc4b-a51719bc7dd2")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "NOTE" "Hole for 10mil diameter feedthrough"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7fd73ef-078b-4d62-98a6-f0a7bd0b61b9")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "PACKAGEDESCRIPTION" "Thru-Hole"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc0d1a4e-90ec-4d40-b169-0d0ccfea4223")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4a9f8b71-d0b4-4597-962b-7a95372b26c5")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER 1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57aa863e-3b15-4aba-8f01-617cb6f58fff")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b6a16e6c-5846-40d1-b602-e971865ea50c")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "AN1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25bc548d-a25e-4b29-947d-2d7a7033383c")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -0.0083 -0.0016 270)
+		(size 1.143 1.143)
+		(drill 0.635)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "31b16ea3-e2df-49da-987e-fa5cfb5e448c")
+	)
+)

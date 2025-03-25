@@ -1,0 +1,409 @@
+(footprint "MSOP-8L"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.0914 0.322 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0838aa43-02b1-4a33-ac17-6d03d38be3fa")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.01)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "OSC ADJ 1.7-5.5V 5MHz"
+		(at -5.5499 -1.2827 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d45f3117-4a49-4b30-932d-3a83f80081a5")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "MSOP-8L"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e56f811e-5d83-47d2-a3db-b02d49b8f8a9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "783ba6e3-84b3-44c8-a1f1-3e7db68b0c36")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "94900ee4-f4aa-4d95-88c1-9d44b58bd1e8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "COMPONENTLINK1URL" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a60a4c85-4b44-41f1-9244-656115488fe8")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTNNPS_PN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2d4701a-8a70-4aa0-b7ab-475b0f03ebda")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "PACKAGEDESCRIPTION" "uSOP8"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "43b645cf-5547-4795-979f-b3716dc4ba97")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "CLASSNAME" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "977665ac-0944-4000-a7e3-643edae40cec")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MFR" "Linear Technology"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9fc9d8cd-d192-4864-947c-d71d8b9b58b2")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "NOTE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc428d04-6601-4267-a788-b5567d0b8150")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5087c7f1-3ad0-4590-8ec0-a0f570d11bf1")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "Digi-Key"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "501061ed-078a-4cd1-836b-ff94571ebd01")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "LTC6930CMS8-5.00#PBF-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5867918a-05ab-4962-9c8f-a26d1ad55b0b")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "AN1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86323280-b56a-4666-b461-4de9972cdcee")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MPN" "LTC6930CMS8-5.00#PBF"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d2c2120-844a-41d6-9c55-a3cc495607af")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SBI" "54-0090"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e18b695-0e8a-4165-bf86-8c0c17c04188")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(fp_rect
+		(start -1.101642 -1.498399)
+		(end 1.119268 1.506881)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "bd739e46-ddeb-4279-a48f-b8e8aaf57b2d")
+	)
+	(fp_poly
+		(pts
+			(xy -1.101642 -1.498399) (xy -0.465258 -1.498416) (xy -1.090574 -0.963683)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "1917454d-d69e-4839-a9e7-5916ac1b9abf")
+	)
+	(fp_line
+		(start -2.44986 1.49986)
+		(end -2.44986 -1.50019)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "cc209851-dd2d-42e6-9b4f-c6aadd2f131e")
+	)
+	(fp_line
+		(start -0.29983 -1.50019)
+		(end -2.44986 -1.50019)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "06cddd07-e7f9-4714-b91c-cce36c0abe06")
+	)
+	(fp_line
+		(start 2.45019 -1.50019)
+		(end 0.30016 -1.50019)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "917bdc6a-19be-4b6d-9183-0bdb03280b7a")
+	)
+	(fp_line
+		(start 2.45019 1.49986)
+		(end -2.44986 1.49986)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "e7d28f30-658b-4f29-b6bc-15f4f5849249")
+	)
+	(fp_line
+		(start 2.45019 1.49986)
+		(end 2.45019 -1.50019)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "d709c527-65a8-40cd-95df-3921d0bf15d6")
+	)
+	(fp_arc
+		(start 0.30017 -1.50019)
+		(mid 0.00017 -1.20019)
+		(end -0.29983 -1.50019)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "8a51970d-f794-4994-b540-ef8f5b89d722")
+	)
+	(fp_text user "1"
+		(at -2.60109 -1.17773 90)
+		(unlocked yes)
+		(layer "User.5")
+		(uuid "61790a51-2b68-4050-bc2d-4ec1c21c9d18")
+		(effects
+			(font
+				(face "Arial")
+				(size 0.315 0.315)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+		(render_cache "1" 90
+			(polygon
+				(pts
+					(xy -2.65464 -1.342835) (xy -2.65464 -1.303905) (xy -2.904068 -1.303905) (xy -2.893854 -1.292112)
+					(xy -2.884492 -1.279135) (xy -2.876832 -1.266976) (xy -2.86903 -1.253153) (xy -2.861976 -1.239006)
+					(xy -2.856521 -1.225969) (xy -2.895912 -1.225969) (xy -2.902883 -1.23988) (xy -2.911597 -1.254814)
+					(xy -2.921109 -1.268719) (xy -2.93142 -1.281595) (xy -2.932765 -1.283133) (xy -2.943493 -1.294471)
+					(xy -2.955366 -1.305089) (xy -2.968316 -1.314231) (xy -2.974695 -1.317754) (xy -2.974695 -1.342835)
+				)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.2 -0.97501)
+		(size 1.4 0.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "de3277cc-96b7-491d-a566-87cb30feeb82")
+	)
+	(pad "2" smd rect
+		(at -2.2 -0.325)
+		(size 1.4 0.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "5f611a72-5a8b-4dbe-9987-3cbebbb51a81")
+	)
+	(pad "3" smd rect
+		(at -2.2 0.32499)
+		(size 1.4 0.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "d604ab81-68c7-4620-a6f0-aed8d283cb10")
+	)
+	(pad "4" smd rect
+		(at -2.2 0.975)
+		(size 1.4 0.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "cb293e0f-a49a-4b9f-8b3a-59bcc307c32d")
+	)
+	(pad "5" smd rect
+		(at 2.2 0.975)
+		(size 1.4 0.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "10f9a163-3865-49ce-890f-dfb346017fb6")
+	)
+	(pad "6" smd rect
+		(at 2.2 0.32499)
+		(size 1.4 0.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "c84f7276-83e7-451e-8901-cdbdd5f63910")
+	)
+	(pad "7" smd rect
+		(at 2.2 -0.325)
+		(size 1.4 0.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "c38e5237-b23f-4a42-8ed9-64887b4487e5")
+	)
+	(pad "8" smd rect
+		(at 2.2 -0.97501)
+		(size 1.4 0.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "772fdbf3-071e-4890-ad56-561bc5e72adf")
+	)
+	(model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/MSOP-8.step"
+		(offset
+			(xyz 0.0001 0.0001 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 0)
+		)
+	)
+)

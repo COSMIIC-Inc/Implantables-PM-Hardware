@@ -1,0 +1,389 @@
+(footprint "ECX-53B"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.3376 -0.3258 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "21830a59-d2c8-4ac7-9b8a-e047ce23d169")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.01)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "10MHz 20pF SMD"
+		(at -5.3721 -1.5621 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b179ec13-3d1e-42c2-ad72-7b82915c4fcb")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "ECX-53B"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ce3f5d0-e052-4f85-84ff-6db0c34c1724")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3f041178-6b47-431c-9cd8-94b3d795eac3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Crystal 10MHz 20pF HC-49US"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5c021e37-0ffb-44f7-ae14-622affb7f604")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "MANUFACTURER" "ECS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6697e760-9950-41a4-b42c-c8df97eae825")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "CLASSNAME" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b6d97361-6e4a-4519-8af5-2583ff496e0a")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTLINK1URL" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "02446645-3e9b-400f-a596-8f80a2e17cbf")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTNNPS_PN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "362f7729-c4e5-44c1-befc-2b95f433f77f")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "NOTE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3ab666ae-4fd2-49d4-8de5-f0f3828cd5ee")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "PACKAGEDESCRIPTION" "CRYSTAL 10.000 MHZ 20PF SMD, 5mm x 3.2mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0c1c4028-9e4c-47b7-a7a4-7253576f3d02")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d65fe91b-7136-4aac-a724-05761008cd1b")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MANUFACTURERPN" "ECS-100-20-30B-TR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "747897ff-fe7a-44b0-9d64-d880a25e20ef")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "Digi-Key"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb69187b-8e21-429d-ae2c-a83d48d8f75a")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "XC1117CT-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f36f8ede-3498-4034-8d4f-6a137d62da06")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MFR" "ECS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e106e205-bbe6-45b2-bb26-68fa81dcb590")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "ALTIUM_UNNAMED_1" "MPN"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9c6d8ebd-0bef-4935-a834-25adb3b94d7c")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MPN" "ECS-100-20-30B-TR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "54fd83cb-4a0d-4683-8111-b66adf2a8e73")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SBI" "54-0110"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b5d7da42-a19c-4f95-be68-fbbbf679ec91")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(fp_rect
+		(start -0.825845 -1.607632)
+		(end 0.851075 1.615784)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "6b1eea3d-40c5-4400-8c87-fa2524090ebb")
+	)
+	(fp_poly
+		(pts
+			(xy -0.825845 1.615784) (xy -0.206144 1.613712) (xy -0.818945 1.014713)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "83349777-2f71-4c3d-bd17-4a8f9ad80dc2")
+	)
+	(fp_line
+		(start -2.5 -1.6)
+		(end -2.5 1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "31e05966-2bfe-47a0-96ab-31c1ef10cee1")
+	)
+	(fp_line
+		(start -2.5 -1.6)
+		(end 2.5 -1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "c9379072-7ddf-42c1-995b-9961bc87b259")
+	)
+	(fp_line
+		(start -2.1 1.6)
+		(end 2.5 1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "b01d0aea-5d1b-4d98-8454-ea52a66f4aa6")
+	)
+	(fp_line
+		(start 2.5 -1.6)
+		(end 2.5 1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "84d086fc-d6dc-49ac-ae40-62ce198d95ff")
+	)
+	(fp_arc
+		(start -2.5 1.2)
+		(mid -2.217157 1.317157)
+		(end -2.1 1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "1327aec3-637f-4ec4-9139-3f54d27bc876")
+	)
+	(fp_text user "1"
+		(at -2.31871 1.70733 -90)
+		(unlocked yes)
+		(layer "User.5")
+		(uuid "2cf5e1a5-4372-42cb-b4f6-48453b92115b")
+		(effects
+			(font
+				(face "Arial")
+				(size 0.441 0.441)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+		(render_cache "1" 270
+			(polygon
+				(pts
+					(xy -2.243741 1.938478) (xy -2.243741 1.883976) (xy -1.894541 1.883976) (xy -1.90884 1.867466)
+					(xy -1.921947 1.849298) (xy -1.932671 1.832274) (xy -1.943593 1.812922) (xy -1.95347 1.793117)
+					(xy -1.961107 1.774864) (xy -1.905959 1.774864) (xy -1.8962 1.79434) (xy -1.884 1.815248) (xy -1.870683 1.834715)
+					(xy -1.856248 1.852742) (xy -1.854365 1.854894) (xy -1.839346 1.870768) (xy -1.822723 1.885632)
+					(xy -1.804593 1.898431) (xy -1.795662 1.903364) (xy -1.795662 1.938478)
+				)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.85 1.1)
+		(size 1.6 1.25)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "7ba50561-49d0-413c-b2ce-2600043c2522")
+	)
+	(pad "2" smd rect
+		(at 1.85 1.1)
+		(size 1.6 1.25)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "93a6734e-0fc8-4a64-b9e1-6005a50bd330")
+	)
+	(pad "3" smd rect
+		(at 1.85 -1.1)
+		(size 1.6 1.25)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "0f179656-78b0-4853-8548-47138a21cf38")
+	)
+	(pad "4" smd rect
+		(at -1.85 -1.1)
+		(size 1.6 1.25)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "02626e31-cc52-46c3-b5c1-71d664e15158")
+	)
+	(model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/ECS-100-20-30B-DU.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

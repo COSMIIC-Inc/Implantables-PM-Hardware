@@ -1,0 +1,343 @@
+(footprint "IND_0402"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.30147 -0.45949 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d537ce8c-daaf-42ce-a2d8-65d22ad62404")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "L_27n_0402_5%"
+		(at -3.3909 -0.2159 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e033134d-418f-4dcc-835c-7fe5890af630")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "IND_0402"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "339ea908-5763-49bc-b0a5-c8206a28d1f7")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e493225c-268c-4ae3-a994-a85ba4cc9ac3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "97882f68-c68f-4926-ac2b-352acdb8e9a2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "COMPONENTLINK1URL" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "73770bdf-db79-4e93-8e0f-6d1c8b303b42")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTNNPS_PN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f0c645a2-52cb-48fd-84fd-228c080d4c2d")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "CLASSNAME" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95a9f71d-5166-4bfa-b10b-993a5baab049")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MFR" "Coilcraft"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e6a7890a-db27-42f9-814e-924834e7ab00")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "NOTE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d77863ce-2bcb-4d07-a5b3-2c43c76019dc")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "PACKAGEDESCRIPTION" "IND_0402"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c9e77ad8-d675-4866-b71a-85f91bc2b731")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "MOUSER"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a76e5a6c-8edd-41db-bcd5-1cd2944834e5")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "994-0402CS-27NXJLU"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "420aac51-5ff0-45e2-9f5d-c1ecd6d5ab05")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "AN1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d436dad1-b29e-412e-b950-d536a51aa0bd")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" "27nH"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6c8ce382-91c4-44cb-ad0a-e54322506438")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MPN" "0402CS-27NXJLU"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "166ee437-7558-4d1d-bb1a-c38b326258a6")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "ALTIUM_UNNAMED_1" "53-0089-2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cfe71f59-bdd2-4703-8f61-09821dcd676c")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MPN2" "0402CS-27NXJLW"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b847cab6-d82f-4f1d-a27f-61fd971dfb4b")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(fp_rect
+		(start -0.143593 -0.321375)
+		(end 0.143593 0.316816)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "370a2eef-9886-476c-81de-2e92875ac8d4")
+	)
+	(fp_line
+		(start -0.4999 0.3)
+		(end -0.4999 -0.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "7dca8e92-3b27-4c0b-b2b6-cbe005b5bd39")
+	)
+	(fp_line
+		(start 0.5001 -0.3)
+		(end -0.4999 -0.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "f1e2d062-106f-45f7-9189-d79c41519f4d")
+	)
+	(fp_line
+		(start 0.5001 0.3)
+		(end -0.4999 0.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "2f4c1ca2-88ad-445a-9259-31d13244000e")
+	)
+	(fp_line
+		(start 0.5001 0.3)
+		(end 0.5001 -0.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "30267f6a-67cb-4812-af1c-80a73c5efd76")
+	)
+	(pad "1" smd rect
+		(at -0.5 0)
+		(size 0.5 0.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "b868b459-5660-4787-b164-176409f55dba")
+	)
+	(pad "2" smd rect
+		(at 0.5 0)
+		(size 0.5 0.75)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "e93975fa-9e74-4fdd-9a1c-965119ab4374")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "5a2a2cbb-bff2-4d13-85ab-9b3a69f9578b")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -0.463158 0.202662) (xy -0.463158 -0.197338) (xy 0.486842 -0.197338) (xy 0.486842 0.202662)
+			)
+		)
+	)
+	(model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/IND-0402.step"
+		(offset
+			(xyz 0.0001 -0.29988 0.24)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 0)
+		)
+	)
+)

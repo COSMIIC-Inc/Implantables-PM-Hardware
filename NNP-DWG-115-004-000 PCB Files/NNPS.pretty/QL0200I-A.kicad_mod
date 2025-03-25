@@ -1,0 +1,299 @@
+(footprint "QL0200I-A"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 4.6924 0.7208 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b5b12262-0871-4796-9a07-728a239f69a3")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.01)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "BAT 200mAH 4.1V"
+		(at -10.8839 -2.6035 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7af40ef3-c56c-46f3-8854-6c6a9202d33b")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "QL0200I-A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a35dbfde-8900-4738-a8f1-89eda23cf050")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07ee5693-5b41-4f3f-abd7-59f6f75afa5d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "47a8d1e1-c504-4787-bb66-9266b8c274c7")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "COMPONENTLINK1URL" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07827e48-323d-4a9e-ae14-eff07c428bcf")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTNNPS_PN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e563b49f-d38f-4ac6-9a3f-279378473b43")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "CLASSNAME" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d6fc3ed-7009-40db-910d-bb574edfa664")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MFR" "Quallion"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5aad80c4-cfcc-47d4-8884-860938b218cc")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "NOTE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "143c3dc2-c172-4b07-ad55-44076555eb1a")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "PACKAGEDESCRIPTION" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d6da6204-050d-41ad-97ac-fd8dd4b12da0")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" "200mAH 4.1V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d92b612f-11f4-4771-9fd1-2ab05daf17bd")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "Quallion"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ead7052b-83d0-4f4a-a12b-41c015ab9ecd")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "QL0200I-A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8cea854b-cdd7-4274-8cfe-57e6ffc9e5b1")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "AN1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "354f1ed3-5623-4d8d-bb3c-6b523f78fce8")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MPN" "QL0200I-A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8cf6dbb0-34a3-4642-973d-7fd3594410ee")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(fp_line
+		(start 10.24581 -2.75)
+		(end -1.2542 -2.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "df37f478-21da-47c0-8ce8-45421d74590f")
+	)
+	(fp_line
+		(start 10.24581 2.75)
+		(end -1.2542 2.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "5584e5b7-764a-4c49-83b7-1c6536990764")
+	)
+	(fp_arc
+		(start -1.2542 2.75)
+		(mid -4.0042 0)
+		(end -1.2542 -2.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "813e6588-bc54-4b96-8279-79c77c4ac690")
+	)
+	(fp_arc
+		(start 10.24581 -2.75)
+		(mid 12.99581 0)
+		(end 10.24581 2.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "6ca77afa-9d65-4876-894b-a3cdad7816e2")
+	)
+	(fp_text user "+"
+		(at 1.74999 0.6 0)
+		(unlocked yes)
+		(layer "User.5")
+		(uuid "bbb19161-5677-4ef2-b95e-5378b05d54e2")
+		(effects
+			(font
+				(face "Arial")
+				(size 1.26 1.26)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+		(render_cache "+" 0
+			(polygon
+				(pts
+					(xy 2.194067 0.188842) (xy 2.194067 -0.155832) (xy 1.848776 -0.155832) (xy 1.848776 -0.303551)
+					(xy 2.194067 -0.303551) (xy 2.194067 -0.638378) (xy 2.34117 -0.638378) (xy 2.34117 -0.303551) (xy 2.686461 -0.303551)
+					(xy 2.686461 -0.155832) (xy 2.34117 -0.155832) (xy 2.34117 0.188842)
+				)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 0 0)
+		(size 2.54 4.064)
+		(drill 1.524
+			(offset 0.2 -0.2)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "f97a248f-eff2-423d-8488-b71776158aa2")
+	)
+	(pad "2" thru_hole oval
+		(at 9.0424 0)
+		(size 1.8288 4.064)
+		(drill 1.1684
+			(offset -0.2 -0.2)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "c5ba41b5-b999-4625-b124-ccaca763b305")
+	)
+)

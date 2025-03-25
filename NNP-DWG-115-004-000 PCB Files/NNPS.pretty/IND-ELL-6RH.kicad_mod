@@ -1,0 +1,350 @@
+(footprint "IND-ELL-6RH"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.1888 0.342 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c3d39bd6-8664-4644-9958-b125b37b8f8d")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.01)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "L_2u7_1A8_2626_20%"
+		(at -6.3373 -2.7813 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2e884cec-123d-47db-b1d0-95e160ae0a16")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "IND-ELL-6RH"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eef462af-d46a-4a23-a5b4-9f676a69c2e1")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9572b9d5-9086-41ea-aaed-3592400c75a0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e124280-d001-452d-b994-57e3f54adc11")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "COMPONENTLINK1URL" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83f7d110-2c8a-485b-aa48-3130e7d2efaa")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTNNPS_PN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e687a59d-9517-47fd-88cb-65447e8b0459")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "CLASSNAME" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "93f19aa1-0ed6-4897-a31d-42626f6d0796")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MFR" "Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "767ad539-8122-4a5a-a899-a0c34233ff92")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "NOTE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f85ddba3-2e5b-4448-9036-97308b4a58fa")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "PACKAGEDESCRIPTION" "Pkg"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "11ca3225-7a10-4fd3-9afa-16dbd37a7e49")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "Digi-Key"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67590286-a59a-4a6f-8e2d-eddd009d0fb8")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "PCD1339CT-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b25e9d20-594d-4916-b10f-3566da0ea70c")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "AN1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25568cc8-83e1-4cd2-8165-5aba75800297")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" "2.7uH"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c14e6451-8a2d-44ad-8358-1cedd7f723c6")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MPN" "ELL6RH2R7M"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b0f597cd-f39d-4abc-bfb2-d451f6e8c0b2")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SBI" "54-0117"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "50bd5488-f1f1-4477-bca2-fcc59d3f0685")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(fp_line
+		(start -2.997243 -3.002447)
+		(end 3.006824 -3.001613)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "60feeafa-692e-4b61-b11b-a257f13f669e")
+	)
+	(fp_line
+		(start -2.996133 -2.256016)
+		(end -2.997243 -3.002447)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "47bc6e7b-b234-4e7f-9de4-b68d46b6becc")
+	)
+	(fp_line
+		(start -2.995716 2.201259)
+		(end -2.99516 3.00641)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "69e707c2-11e6-4303-a0b8-c668173ea5bb")
+	)
+	(fp_line
+		(start -2.99516 3.00641)
+		(end 2.996069 3.00527)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7af3be84-0075-413d-bdbc-78beef5f9ab7")
+	)
+	(fp_line
+		(start 2.996069 3.00527)
+		(end 2.994905 2.255065)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8d866742-cab4-4b28-8333-2e3dc5fbbd26")
+	)
+	(fp_line
+		(start 3.006824 -3.001613)
+		(end 3.006824 -2.261985)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "94231985-dc31-493f-bc00-e76a3cac3e13")
+	)
+	(fp_line
+		(start -3 3)
+		(end -3 -3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "1fd90b0a-a1f2-4373-9be0-f8a02298e68a")
+	)
+	(fp_line
+		(start 3 -3)
+		(end -3 -3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "1b43c21b-b326-4569-8a95-d31883e9c125")
+	)
+	(fp_line
+		(start 3 3)
+		(end -3 3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "6603782f-e90a-43ad-8a9c-8a2985a4e0cf")
+	)
+	(fp_line
+		(start 3 3)
+		(end 3 -3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "97bb6ad7-5c9c-4e08-bcc9-d8cb9c781e9b")
+	)
+	(pad "1" smd rect
+		(at -2.85 0)
+		(size 1.7 3.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "b63d9fba-ef4b-4c27-9491-afd51cedbe97")
+	)
+	(pad "2" smd rect
+		(at 2.85 0)
+		(size 1.7 3.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "13e780c6-22a8-4ba1-9d91-cfbdeea8506a")
+	)
+	(model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/IND_ELL6RH_PAN.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

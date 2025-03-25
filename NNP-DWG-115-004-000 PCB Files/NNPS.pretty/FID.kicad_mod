@@ -1,0 +1,89 @@
+(footprint "FID"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.3402 0.10559 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3c41ab8e-f4c1-4580-84a7-7fc983e30053")
+		(effects
+			(font
+				(size 0.2 0.2)
+				(thickness 0.01)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "Fiducial 1.00mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ed25f6ef-e669-4ec1-ac6a-f603da9894a8")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "PM1B:FID"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "802ce78c-4390-404f-bc3d-8facdcbf7760")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "Fiducial 1.00mm"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e1cc75d5-6a95-46e2-86a1-b333a091d649")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Fiducial 1.00mm"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60d1e706-5872-446d-89b8-9f4f31daf106")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd board_only exclude_from_bom)
+	(fp_circle
+		(center 0 0)
+		(end 0 -0.25)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.2")
+		(uuid "40557aa4-bad5-4682-a82a-538e068f9459")
+	)
+	(pad "1" smd circle
+		(at 0 0 180)
+		(size 1 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.4)
+		(solder_paste_margin -1)
+		(uuid "b1f9c26d-8fca-4928-a009-06f65a69c90b")
+	)
+)

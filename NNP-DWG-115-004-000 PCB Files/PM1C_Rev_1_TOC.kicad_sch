@@ -1,0 +1,125 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "9cd21fd5-f8a4-4148-b34f-dc644f41a105")
+	(paper "B")
+	(title_block
+		(rev "-")
+	)
+	(lib_symbols)
+	(text_box "Initial KiCAD version of PM1C Rev 0 is equivalent to Altium version of PM1B Rev 4\n\n"
+		(exclude_from_sim no)
+		(at 58.674 73.406 0)
+		(size 123.444 7.112)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left top)
+		)
+		(uuid "0cfd53d0-1792-4efb-a997-da847d767783")
+	)
+	(text_box "Update to match Module Connector "
+		(exclude_from_sim no)
+		(at 58.674 87.63 0)
+		(size 111.76 27.432)
+		(stroke
+			(width -0.0001)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 255 1)
+		)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+			(justify left top)
+		)
+		(uuid "375a8744-5050-4c2c-b733-47a414bd64e0")
+	)
+	(text_box "Pg1 TOC, Revision History\nPg2 Concept 1\nPg3 Concept 2\nPg4 Test Header\nPg5 Layout Rules\nPg6 Header\nPg7 Digital Therm\nPg8 CPLD\nPg9 Network\nPg10 Radio\nPg11 NFLink 4V6\nPg12 3V3 n3V3 1V8\nPg13 NetPS\nPg14 Battery1\nPg15 Battery2\nPg16 Battery3\nPg17 UC\nPg18 Analog I2C"
+		(exclude_from_sim no)
+		(at 256.286 69.342 0)
+		(size 66.04 68.58)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 255 1)
+		)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "c7b7b3df-ce66-4137-bac2-0b9bc6ee27e3")
+	)
+	(text "Schematic table of contents."
+		(exclude_from_sim no)
+		(at 261.366 68.072 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left bottom)
+		)
+		(uuid "33ebed32-8e04-4e50-a572-388c051c50ba")
+	)
+	(text "Power Module (PM)"
+		(exclude_from_sim no)
+		(at 169.672 53.594 0)
+		(effects
+			(font
+				(size 4.572 4.572)
+			)
+			(justify left bottom)
+		)
+		(uuid "440a3c59-1687-45f5-8a3f-e27a3f424323")
+	)
+	(text "Note 1, KiCAD translation of Altium Power Module Design "
+		(exclude_from_sim no)
+		(at 58.166 70.358 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "892bd607-d629-4253-b3f8-ae8d689d99e9")
+	)
+	(text "Note 2, Rev 1"
+		(exclude_from_sim no)
+		(at 58.42 85.09 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "b2fcf57c-a61b-4698-9ff4-deecb15efc46")
+	)
+	(sheet_instances
+		(path "/"
+			(page "4")
+		)
+	)
+)

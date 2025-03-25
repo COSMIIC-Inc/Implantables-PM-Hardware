@@ -1,0 +1,406 @@
+(footprint "POWERDI"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.92647 -1.20949 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f77de5c0-e46e-42d5-b1c1-30e6a9926c6d")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.01)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "Zener Diode, 15V, 1W, DI123, RoHS"
+		(at -5.4229 -0.7239 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d967ac3a-5e3b-49ad-9cda-233349b242a3")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "POWERDI"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "bafdd7a0-c87f-4926-ba6c-26014df4b832")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "6b956974-baf6-4cca-9318-b3fa5ab7dfbc")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "6a94ab93-1bef-4edd-9820-faa94157aac8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "COMPONENTLINK1URL" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cf8cb9a2-dc47-401d-80bd-c70d3863450e")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTNNPS_PN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f364bba8-2246-4194-ac77-82fac8ec6bcc")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "CLASSNAME" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "232a78d2-2de2-4358-911a-a69519d8f89c")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MFR" "Diodes Inc."
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c9ff2a19-b804-4952-a96a-168c487b1483")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "NOTE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5be4aae5-b21b-4f06-a7e3-0fb08516dc9c")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "PACKAGEDESCRIPTION" "PowerDI 123"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f0f0188-5e15-4ec4-8d0c-6432a884d8b1")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "Digi-Key"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "79624f13-57e3-46a1-a68b-2d14944f5439")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "DFLZ15DICT-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b1534da4-bb93-452d-94f5-c234d5e5eb10")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "AN1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b9ee82b5-7d12-4cfb-9b22-9830d01e77e3")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" "15V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f10744a5-88d7-4de9-90df-1af7504fcae5")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MPN" "DFLZ15-7"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75dcaffd-ab33-4c70-bb27-2e18f3edef3f")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SBI" "54-0111"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5db0f285-488c-4055-a9d8-d828b01024fb")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MFR2" "Diodes Inc."
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "45da96f3-5089-48aa-a612-53f1002ecb88")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MPN2" "DFLZ15Q-7"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8d2cc7f9-c5ec-4e48-ab81-12cda03f9101")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(fp_rect
+		(start -2.025783 -1.121881)
+		(end -1.776585 -0.816612)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "d6b4492b-252d-4da4-9e0d-1591f22fd7f7")
+	)
+	(fp_rect
+		(start -2.019553 0.812526)
+		(end -1.770355 1.117795)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "a0b8b409-0216-4a0c-95f3-bb7d55e71438")
+	)
+	(fp_line
+		(start -2.27496 0.96451)
+		(end -2.27496 -0.96548)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "9f476c62-607d-4376-8e1d-f8f87d1ecab8")
+	)
+	(fp_line
+		(start -1.95 0.96451)
+		(end -1.95 -0.96548)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "63a092cc-b88b-4fc0-a6ab-9fd34ab57824")
+	)
+	(fp_line
+		(start -1.9 0.96451)
+		(end -1.9 -0.96548)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "54496b9e-0706-472e-9eba-c642d6f4e636")
+	)
+	(fp_line
+		(start -1.85 0.96451)
+		(end -1.85 -0.96548)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "5e40d8ec-501a-45df-86cb-1212b46884ec")
+	)
+	(fp_line
+		(start 1.62502 -0.96548)
+		(end -2.27496 -0.96548)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "95921fe9-6470-442b-87ce-05cb4fa8c367")
+	)
+	(fp_line
+		(start 1.62502 0.96451)
+		(end -2.27496 0.96451)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "3500e7b9-e8fb-47cd-8c2a-e49acd766597")
+	)
+	(fp_line
+		(start 1.62502 0.96451)
+		(end 1.62502 -0.96548)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "a8c23de1-1373-4fc3-9fb0-93636e367231")
+	)
+	(fp_poly
+		(pts
+			(xy -1.85 0) (xy -0.9 -0.95) (xy -0.9 0.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "User.6")
+		(uuid "ab25eba0-9bc3-4950-b86c-e57c6a616b48")
+	)
+	(fp_text user "K"
+		(at -3 0.3 180)
+		(unlocked yes)
+		(layer "User.6")
+		(uuid "d2f81f1f-a1f1-4872-b8cd-a84d868f463f")
+		(effects
+			(font
+				(face "Arial")
+				(size 0.63 0.63)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+		(render_cache "K" 180
+			(polygon
+				(pts
+					(xy -2.935065 0.4071) (xy -2.935065 1.047211) (xy -2.85105 1.047211) (xy -2.85105 0.733464) (xy -2.536072 1.047211)
+					(xy -2.422206 1.047211) (xy -2.688407 0.790705) (xy -2.410512 0.4071) (xy -2.521301 0.4071) (xy -2.747186 0.734387)
+					(xy -2.85105 0.633601) (xy -2.85105 0.4071)
+				)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.275 0 180)
+		(size 2.2 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "46caa52c-b65a-4f2a-a486-0e73fa6c7f56")
+	)
+	(pad "2" smd rect
+		(at 1.275 0 180)
+		(size 0.9 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "9a82736e-ca7b-4d34-8c7e-0d4216e74c54")
+	)
+	(model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/POWERDI-123.STEP"
+		(offset
+			(xyz -0.32492 0.00006 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)

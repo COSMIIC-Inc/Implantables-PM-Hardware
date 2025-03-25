@@ -1,0 +1,425 @@
+(footprint "SOT-563"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.5876 0.2014 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ead28298-73ab-4019-b989-4995b701ffe1")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.01)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "MOSFET 2N, 60V, 0.305A"
+		(at -3.4671 -0.5715 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ba924e4a-bb18-4dd9-8f66-9bda36d518e6")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "SOT-563"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "5170a04a-8fc0-40f0-8b32-b5a00094170f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "361486c8-0a8e-4655-9a2a-d034304f3812")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "92d9bba9-3138-49d5-bfca-dff0f9b34223")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "COMPONENTLINK1URL" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "477464f9-e9da-4f77-a575-b73a63d43e4d")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTNNPS_PN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ad594879-6c1e-41e6-a70f-a32263eefbcf")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "CLASSNAME" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "939b8c7d-8298-4b70-bd8f-fb57f6b57bef")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MFR" "Vishay Siliconix"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c11ed0b2-5ceb-401c-a753-d9331b38b601")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "NOTE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6730dcd8-9f22-4af1-853e-8c7bcfed9a67")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "PACKAGEDESCRIPTION" "SOT563"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9eb6a8b1-197f-4356-9ba2-ac7b474c22e4")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "Digi-Key"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae75390d-7a11-4703-9c74-55200ae32901")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "SI1026X-T1-E3CT-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "903e5d15-b084-429f-b919-224025a04de8")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "AN1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "50d61436-3aef-4097-a281-1500f00f582e")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" "500mA"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c0b93165-a4fd-44b6-89ac-04d67d7102b2")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MPN" "Si1026X-T1-E3"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9fa4f5a2-4416-4537-bd17-c33c8d73bb93")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SBI" "54-0102"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76c3fe1c-0a28-4a9b-801c-76c6cadf8c1a")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(fp_line
+		(start -0.812328 0.798572)
+		(end 0.809593 0.798572)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9dc8d3fa-21fd-4122-a1fd-278a652e2730")
+	)
+	(fp_line
+		(start -0.809593 -0.798732)
+		(end 0.809593 -0.795997)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e5e7fde5-66d5-4331-85a2-1260e17c793b")
+	)
+	(fp_poly
+		(pts
+			(xy -0.33051 -0.796514) (xy -0.138315 -0.545699) (xy 0.048127 -0.794829)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "1e2629f8-c504-43bf-942a-550b33fe9334")
+	)
+	(fp_line
+		(start -0.81285 0.80004)
+		(end -0.81285 -0.8002)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "39ba4218-07b3-4f5f-a165-b0715d9ebc9c")
+	)
+	(fp_line
+		(start -0.2002 -0.8002)
+		(end -0.81285 -0.8002)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "aecab4a9-bc98-451c-8cad-326ded851599")
+	)
+	(fp_line
+		(start -0.2 -0.8)
+		(end -0.2002 -0.8002)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "be8f2d50-cb6e-458f-a02d-b731bcd5861a")
+	)
+	(fp_line
+		(start 0.2002 -0.8002)
+		(end 0.2 -0.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "7b09ed59-91f6-49a4-b0d6-7037aeacbd5a")
+	)
+	(fp_line
+		(start 0.81275 -0.8002)
+		(end 0.2002 -0.8002)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "236258b5-3c25-4051-a714-17a2c6440872")
+	)
+	(fp_line
+		(start 0.81275 0.80004)
+		(end -0.81285 0.80004)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "08d199a2-8c9b-4c7b-84c9-04c9491627f6")
+	)
+	(fp_line
+		(start 0.81275 0.80004)
+		(end 0.81275 -0.8002)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "40002db0-48fa-4ac8-8375-bc60d5c911bb")
+	)
+	(fp_arc
+		(start 0.2001 -0.8002)
+		(mid -0.00005 -0.60005)
+		(end -0.2002 -0.8002)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.6")
+		(uuid "5be2e121-c9a7-4f80-a65c-36f7c12a37c6")
+	)
+	(fp_text user "1"
+		(at -1.05 -0.4 180)
+		(unlocked yes)
+		(layer "User.6")
+		(uuid "4248fae5-7219-426e-a188-2bd0ca0f5fb8")
+		(effects
+			(font
+				(face "Arial")
+				(size 0.252 0.252)
+				(thickness 0.254)
+			)
+			(justify left bottom mirror)
+		)
+		(render_cache "1" 180
+			(polygon
+				(pts
+					(xy -0.917915 -0.35716) (xy -0.949059 -0.35716) (xy -0.949059 -0.157617) (xy -0.958493 -0.165788)
+					(xy -0.968875 -0.173277) (xy -0.978602 -0.179405) (xy -0.989661 -0.185647) (xy -1.000978 -0.191291)
+					(xy -1.011408 -0.195654) (xy -1.011408 -0.164141) (xy -1.000279 -0.158565) (xy -0.988332 -0.151594)
+					(xy -0.977208 -0.143984) (xy -0.966907 -0.135735) (xy -0.965677 -0.134659) (xy -0.956606 -0.126077)
+					(xy -0.948112 -0.116578) (xy -0.940798 -0.106218) (xy -0.93798 -0.101115) (xy -0.917915 -0.101115)
+				)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.65 -0.5 180)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "91f21b95-1170-45ed-9b83-fb976844b57d")
+	)
+	(pad "2" smd rect
+		(at -0.65 0 180)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "8f270367-f8d3-42f3-b975-ccff21e08364")
+	)
+	(pad "3" smd rect
+		(at -0.65 0.5 180)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "b0a042cc-4367-4266-b433-b5e227bdd45a")
+	)
+	(pad "4" smd rect
+		(at 0.65 0.5 180)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "949f1326-2c87-462d-86e8-6966714784d3")
+	)
+	(pad "5" smd rect
+		(at 0.65 0 180)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "f265c526-9579-40a7-a4aa-959063530ef7")
+	)
+	(pad "6" smd rect
+		(at 0.65 -0.5 180)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(thermal_bridge_angle 45)
+		(uuid "0fc91adf-d1f1-4170-8b28-1a293b8ed8a2")
+	)
+	(model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/SOT-563.step"
+		(offset
+			(xyz -0 -0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
+)

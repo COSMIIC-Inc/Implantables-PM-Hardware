@@ -1,0 +1,363 @@
+(footprint "NX2520SA"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.1484 -0.1938 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "81442f2a-f336-4963-ae11-632c2ef7a557")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.01)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "OSC 26MHz 2.5x2.0x0.7mm"
+		(at -4.1529 -1.0033 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "cdc958e0-1cd8-49f1-b059-d40a6d45b2ec")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "NX2520SA"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a3763dd-346f-437f-8fdd-e1268600a2b0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f0d017f-ea0a-4801-bdeb-16bb474ef367")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51177c25-b316-42a2-ab53-3581ca291ec8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "MFR" "NDK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d6464187-cf27-40c4-99e5-8e16b2caccdb")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "Digi-Key"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25352115-2cf8-4df8-8207-e0bb9a193d8c")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "644-1063-1-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4512bc33-5787-4e82-b26e-7e02a19186b7")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "CLASSNAME" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c693b520-c65c-4144-b9ab-73114de7584c")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTLINK1URL" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e49bf29-af24-4c67-8c3c-f41964e7f990")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "COMPONENTNNPS_PN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4fa36d61-e1ca-4d0d-a4f0-c9cfe15eea5b")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "NOTE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ba9e9add-9c10-4655-ab10-ae0ed6f70f84")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "PACKAGEDESCRIPTION" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d99c6750-ca72-4a01-b0af-2380259b3c7f")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" "26MHz"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9f91269c-02f2-48fd-acda-d3bcde1a319d")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "AN1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "49eb6694-c348-4450-87a7-6fbcaffbc071")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MPN" "NX2520SA-26.000000MHZ"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fe484706-25e0-4882-bdc7-523670df77f6")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "SBI" "54-0109"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a14a4411-b7dc-4cf2-9c43-b0481b8c46f9")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(fp_rect
+		(start -1.63216 -1.331586)
+		(end 1.647129 1.34273)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "ae2bc657-e10a-4f0f-af4c-986784914f36")
+	)
+	(fp_poly
+		(pts
+			(xy -1.63216 1.34273) (xy -1.979764 1.046476) (xy -1.637122 0.790855)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "2d158e0a-4f72-4ae2-8c9a-5be359bbacd4")
+	)
+	(fp_line
+		(start -1.25 -1)
+		(end -1.25 0.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "b41f1462-90f9-4682-810f-9103ed05dcf1")
+	)
+	(fp_line
+		(start 1.25 -1)
+		(end -1.25 -1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "9ba35989-d95b-42cc-aad9-abf5128a8e1b")
+	)
+	(fp_line
+		(start 1.25 -1)
+		(end 1.25 1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "2866aaeb-eb1d-4ca3-bafd-540b0ed54bb6")
+	)
+	(fp_line
+		(start 1.25 1)
+		(end -1.05 1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "a0f7f58a-866d-444b-ba70-262019e93094")
+	)
+	(fp_arc
+		(start -1.25 0.8)
+		(mid -1.108579 0.858579)
+		(end -1.05 1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.5")
+		(uuid "f2f2f53e-249f-4bde-b07e-ae9bb44e415f")
+	)
+	(fp_text user "1"
+		(at -1.30053 0.64449 180)
+		(unlocked yes)
+		(layer "User.5")
+		(uuid "0f38278b-2922-4a5e-86c7-ca8479603991")
+		(effects
+			(font
+				(face "Arial")
+				(size 0.63 0.63)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+		(render_cache "1" 180
+			(polygon
+				(pts
+					(xy -1.630741 0.75159) (xy -1.552881 0.75159) (xy -1.552881 1.250446) (xy -1.529295 1.230019) (xy -1.503341 1.211295)
+					(xy -1.479022 1.195975) (xy -1.451376 1.180371) (xy -1.423083 1.166262) (xy -1.397008 1.155352)
+					(xy -1.397008 1.234135) (xy -1.424831 1.248076) (xy -1.454699 1.265504) (xy -1.482509 1.284529)
+					(xy -1.508261 1.30515) (xy -1.511336 1.30784) (xy -1.534013 1.329296) (xy -1.555248 1.353043) (xy -1.573532 1.378943)
+					(xy -1.580578 1.391701) (xy -1.630741 1.391701)
+				)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.85 0.65)
+		(size 1.2 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "f04a2637-4998-4edf-97d1-3ca16cec2be1")
+	)
+	(pad "2" smd rect
+		(at 0.85 0.65)
+		(size 1.2 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "dbc00868-ac7c-419a-80da-33b45eb70113")
+	)
+	(pad "3" smd rect
+		(at 0.85 -0.65)
+		(size 1.2 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "130d34af-1342-4499-9428-8858784427ce")
+	)
+	(pad "4" smd rect
+		(at -0.85 -0.65)
+		(size 1.2 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "43fac30a-40f8-46c2-a421-305f7936e47b")
+	)
+	(model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/NX2520SA.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

@@ -1,0 +1,150 @@
+(footprint "TEST_POINT"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.19468 -0.52603 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "71714a70-eab3-446b-bd2f-e3c90e204e72")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.01)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "Test Point"
+		(at -2.9083 -0.3683 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "9dc54111-07c9-4646-8cd1-8550a01dfff4")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "PM1B:TEST_POINT"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56eef8dc-b920-4943-940f-b45d599dbfe2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "662e33ff-8294-4218-8abe-f45caa17a59e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1a35fe2f-10da-467c-9f0d-04f849cb7f79")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" "*"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "665bdefe-61fb-4dd9-803c-15fcd5aac432")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "PACKAGE" "*"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "040894c0-7d46-450a-9145-a8209d9464b7")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "MANUFACTURER" "*"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9727877d-4d91-4ae3-8436-fbadbb176dec")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(property "PARTNUMBER" "*"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b9f95ce-48ce-4401-b8e2-b249d46b5fb7")
+		(effects
+			(font
+				(size 0.2 0.05)
+				(thickness 0.0125)
+			)
+		)
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.25 0)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.2")
+		(uuid "4a72b3fe-4604-46f4-8f22-5e208cb09c44")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.6 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "User.5")
+		(uuid "7d46698e-a80d-4a94-9c49-56c1eeb0ffcc")
+	)
+	(pad "1" smd circle
+		(at 0 0)
+		(size 1 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -1)
+		(uuid "205c5dfb-a540-4b59-86af-bb6bae429f8e")
+	)
+)
